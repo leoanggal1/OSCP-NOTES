@@ -9,7 +9,7 @@ I publish here my notes, codes and cheatsheets taken during the preparation. I r
 Most of the information is from much better hacking sites like [Hacktricks](https://book.hacktricks.xyz/v/es/welcome/readme), but here I have adapted some of them to my methodology.
 
 I am posting this because I have been asked by many colleagues and it may be useful for OSCP students. **I recommend all students not to use this as a guide and try to prepare their own notes.** 
-To visualize the notes correctly I recommend using the Obsidian app. I tried to follow this template for each vulnerability I encountered. Sorry if in some of them I have not used it and for my **SPANGLISH** (some notes are written in Spanish). **I will fix the formatting and translate everything in English soon.**
+To visualize the notes correctly I recommend using the Obsidian app. I tried to follow this template for each vulnerability. Sorry if in some of them I have not used it and for my **SPANGLISH** (some notes are written in Spanish). **I will fix the formatting and translate everything in English soon.**
 
 ![TEMPLATE](https://github.com/leoanggal1/OSCP-NOTES/blob/main/IMAGES/Pasted%20image%2020231009213928.png)
 
