@@ -9,7 +9,7 @@
 
 ## EXPLOITATION
 
-### OPTION 1: DESDE KALI
+### OPTION 1: 
 
 
 
@@ -17,4 +17,4 @@
 
 * Hack The Box: 
 
-**!!NOTA IMPORTANTE!!** 
+**!!IMPORTANT NOTE!!** 

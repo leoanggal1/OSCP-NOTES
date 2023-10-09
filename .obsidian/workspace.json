@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,13 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7540d0995296eb8b",
+  "active": "7dca9bd0f88a77ee",
   "lastOpenFiles": [
+    "IMAGES/Pasted image 20231009211828.png",
+    "IMAGES/Pasted image 20231009210045.png",
+    "COMMON/INTERESTING STUFF/TEMPLATE.md",
+    "README.md",
+    "WINDOWS/EXPLOITATION/H2 DATABASE (H2 1.4.199).md",
     "WINDOWS/ACTIVE DIRECTORY/LATERAL MOVEMENT SOME TOOLS/PASS THE HASH.md",
     "COMMON/EXPLOITATION/HTTP - HTTPS/Attendance and Payroll System v1.0.md",
     "WINDOWS/ACTIVE DIRECTORY/BLOODHOUND/FORCECHANGEPASSWORD CAPABILITY.md",
     "LINUX/PRIVILEGE ESCALATION/SUID/NO COMMON BINARY/LLAMADA A OTRO BINARIO PATH.md",
-    "README.md",
     "WINDOWS/ENUMERATION/SMB (139, 445).md",
     "WINDOWS/EXPLOITATION/RESPONDER A TRAVÉS DE WEB.md",
     "LINUX/PRIVILEGE ESCALATION/SUDO/OPENVPN.md",
@@ -198,9 +201,6 @@
     "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeRestorePrivilege.md",
     "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeLoadDriverPrivilege.md",
     "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeBackupPrivilege.md",
-    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/ROGUE POTATO.md",
-    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/JUICY POTATO.md",
-    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/GOD POTATOE.md",
     "IMAGES/Pasted image 20231009183732.png",
     "OSCP-NOTES",
     "IMAGES/Pasted image 20230706144208.png",
@@ -211,7 +211,6 @@
     "IMAGES/Pasted image 20230706140234.png",
     "IMAGES/Pasted image 20230705195432.png",
     "IMAGES/Pasted image 20230705195342.png",
-    "IMAGES/Pasted image 20230704204738.png",
     "COMMON/EXPLOITATION/JS",
     "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/GIT",
     "LINUX/PRIVILEGE ESCALATION/git",
