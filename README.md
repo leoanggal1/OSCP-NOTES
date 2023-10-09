@@ -14,7 +14,6 @@ To visualize the notes correctly I recommend using the Obsidian app. I tried to 
 ![TEMPLATE](https://github.com/leoanggal1/OSCP-NOTES/blob/main/IMAGES/Pasted%20image%2020231009213928.png)
 
 
-
 ## Contact
 
 * Email:  leopol.angul0@gmail.com
