@@ -92,6 +92,6 @@ Y ahora ejecutamos RESET_PASSWD con el usuario john:
 ## MACHINES
 
 * Hack The Box: 
-* OSCP: OSCP A
+
 
 **!!NOTA IMPORTANTE!!** 

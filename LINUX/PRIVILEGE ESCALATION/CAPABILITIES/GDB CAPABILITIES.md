@@ -20,4 +20,3 @@ Escalada de privilegios usando la siguietne capabilitie:
 ## MACHINES
 
 * Hack The Box: 
-* OSCP: exercises

@@ -29,10 +29,6 @@ En este caso, queremos escuchar en el puerto **2345** en nuestra máquina Kali
 ssh -N -R 127.0.0.1:2345:10.4.50.215:5432 kali@192.168.118.4
 ```
 
-
-![[Pasted image 20230529191520.png]]
-
-
 ### OPTION 2: POR EJEMPLO SI QUEREMOS ESTABLECERNOS UNA REVERSE SHELL
 
 ![[Pasted image 20230606182143.png]]

@@ -9,11 +9,9 @@ Interesante para ver donde podemos escribir: /etc/apache2/sites-enabled/000-defa
 
 POR DEFECTO EN /opt/redis-file
 
-
 #### Mas información
 * https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis
 *  https://0xdf.gitlab.io/2020/03/14/htb-postman.html https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis
-
 
 ## EXPLOITATION
 

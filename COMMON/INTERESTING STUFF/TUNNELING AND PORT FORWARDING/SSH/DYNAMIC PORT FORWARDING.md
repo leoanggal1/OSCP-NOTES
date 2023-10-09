@@ -22,7 +22,7 @@ Usa -N para evitar que se nos abra una shell.
 
 ### EN LA MÁQUINA KALI
 
-![[Pasted image 20230529191036.png]]
+![[Pasted image 20231009183732.png]]
 
 Y utilizamos proxychains
 

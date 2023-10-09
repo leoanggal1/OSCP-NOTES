@@ -61,7 +61,7 @@ python3 zerologon_tester.py MULTIMASTER 10.10.10.179 <DC NAME (Netbios)> <IP>
 
 **!!NOTA IMPORTANTE!!** Aunque **Kerbrute nos de un hash de los usuarios ASEREPROASTEABLES** probar con impacket-GetNPUser con el usuario por que nos puede dar otro distinto. En algun ejemplo no me ha funcionado el hash que da Kerbrute.
 
-6. Test otros servicios comunes: ssh, http, ftp, etc --> [[ENUMERATION CHECKLIST]]
+6. Test otros servicios comunes: ssh, http, ftp, etc --> [[NMAP ENUMERATION CHECKLIST]]
 
 7. NTLM RELAY + RESPONDER
 

@@ -2,7 +2,6 @@
 ## DESCRIPTION
 The Domain Name Systems (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to [IP addresses](https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/) so browsers can load Internet resources.
 
-
 #### Mas información
 * https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns
 
@@ -35,6 +34,6 @@ for ip in $(cat list.txt); do host $ip.megacorpone.com; done
 
 ## MACHINES
 
-* Hack The Box: Cronos, 
+* Hack The Box: Cronos
 
 **!!NOTA IMPORTANTE!!** 
