@@ -3,7 +3,7 @@
 Last July I passed the OSCP certification. I was able to pwn all the machines in the exam (100/100 points + 10 bonus points).
 
 ![[Pasted image 20231009211828.png]]
-https://github.com/leoanggal1/OSCP-NOTES/blob/main/IMAGES/Pasted%20image%2020231009211828.png 
+![CERT](https://github.com/leoanggal1/OSCP-NOTES/blob/main/IMAGES/Pasted%20image%2020231009211828.png )
 
 I publish here my notes, codes and cheatsheets taken during the preparation. I repeat, **these are only my personal notes during the study.**
 
