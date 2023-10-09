@@ -13,6 +13,8 @@ To visualize the notes correctly I recommend using the Obsidian app. I tried to 
 
 ![TEMPLATE](https://github.com/leoanggal1/OSCP-NOTES/blob/main/IMAGES/Pasted%20image%2020231009210045.png)
 
+![[Pasted image 20231009213928.png]]
+
 ## Contact Developer
 
 * Email:  leopol.angul0@gmail.com
