@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d0e49b3c4f1078ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b525a8f6963abd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dca9bd0f88a77ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caa1ca753cf3e08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52a8d1bf9e2d863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c736a0b2d9cd14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7540d0995296eb8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "629a42c2f46c3c43",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ad6f77ab0664227",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "d1fd8bac25a00b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95653a683fbdca5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98129d361621a1f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "ser",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a71444b812b4290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307d46e8d1b716e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e2899d1ad30de3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md"
+              }
+            }
+          },
+          {
+            "id": "b7812f4a0a51917c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "074367124e3bd486",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7c736a0b2d9cd14",
+  "lastOpenFiles": [
+    "WINDOWS/EXPLOITATION/PHISHING/MAIL PHSHING (ATTACHING A  Windows Library).md",
+    "OSCP-NOTES/README.md",
+    "OSCP-NOTES",
+    "COMMON/ENUMERATION/REDIS (6379).md",
+    "COMMON/EXPLOITATION/REDIS (6379).md",
+    "LINUX/ENUMERATION/BÚSQUEDA.md",
+    "COMMON/INTERESTING STUFF/SHELLS/REVERSE-SHEL.md",
+    "COMMON/EXPLOITATION/SQL INJECTION/SQLi.md",
+    "COMMON/EXPLOITATION/ADMIRER DATABASE MANAGEMENT/ADMIRER 4.6.2 Arbitrary File Read vulnerability.md",
+    "COMMON/ENUMERATION/ENUMERATION CHECKLIST.md",
+    "COMMON/INTERESTING STUFF/TRANSFERRING FILES.md",
+    "LINUX/PRIVILEGE ESCALATION/PRIVILEGE ESCALATION CHECKLIST.md",
+    "WINDOWS/EXPLOITATION/SMARTERMAIL.md",
+    "WINDOWS/EXPLOITATION/RESPONDER A TRAVÉS DE WEB.md",
+    "WINDOWS/EXPLOITATION/FTP (PUT) on IIS.md",
+    "COMMON/ENUMERATION/FTP (21).md",
+    "COMMON/EXPLOITATION/PHP/RFI.md",
+    "COMMON/EXPLOITATION/PHP/LFI.md",
+    "COMMON/ENUMERATION/PASSWORD/CRACKING PASSWORD OFFLINE.md",
+    "COMMON/ENUMERATION/PASSWORD/KEEPASS.md",
+    "WINDOWS/PRIVILEGE ESCALATION/WINPEAS COSAS INTERESANTES.md",
+    "WINDOWS/PRIVILEGE ESCALATION/GENERIC ENUMERATION FOR PRIVILEGE ESCALATION.md",
+    "WINDOWS/PRIVILEGE ESCALATION/ENUMERATING USING POWERVIEW 1.md",
+    "WINDOWS/PRIVILEGE ESCALATION/KERBEROS/Kerberos Resource-Based Constrained.md",
+    "WINDOWS/EXPLOITATION/H2 DATABASE (H2 1.4.199).md",
+    "WINDOWS/EXPLOITATION/CROSS COMPILING.md",
+    "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/MYSQL/MySQL User Defined Functions (4.1.10a and MySQL 4.0.24).md",
+    "IMAGES/Pasted image 20230706144208.png",
+    "IMAGES/Pasted image 20230706144146.png",
+    "IMAGES/Pasted image 20230706140430.png",
+    "IMAGES/Pasted image 20230706140403.png",
+    "IMAGES/Pasted image 20230706140336.png",
+    "IMAGES/Pasted image 20230706140234.png",
+    "IMAGES/Pasted image 20230705195432.png",
+    "IMAGES/Pasted image 20230705195342.png",
+    "IMAGES/Pasted image 20230704204738.png",
+    "IMAGES/Pasted image 20230704204546.png",
+    "COMMON/EXPLOITATION/JS",
+    "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/GIT",
+    "LINUX/PRIVILEGE ESCALATION/git",
+    "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/MYSQL",
+    "LINUX/PRIVILEGE ESCALATION/SUDO/SCRIPT",
+    "WINDOWS/PRIVILEGE ESCALATION/REGISTRY/Untitled",
+    "WINDOWS/PRIVILEGE ESCALATION/REGISTRY",
+    "LINUX/PRIVILEGE ESCALATION/SUID/NO COMMON BINARY",
+    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH",
+    "Untitled.canvas"
+  ]
+}

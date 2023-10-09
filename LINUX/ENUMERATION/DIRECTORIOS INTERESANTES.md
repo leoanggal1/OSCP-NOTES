@@ -1,0 +1,3 @@
+
+* DEFAULT WEB DIRECTORY: /var/www/html
+* DEFAULT FTP DIRECTORY: /var/ftp
