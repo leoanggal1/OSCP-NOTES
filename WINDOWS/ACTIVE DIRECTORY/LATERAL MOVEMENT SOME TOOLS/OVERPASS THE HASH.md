@@ -26,7 +26,7 @@ Desde mimikatz ejecutamos:
 sekurlsa::pth /user:jen /domain:corp.com /ntlm:369def79d8372408bf6e93364cc93075 /run:powershell
 ```
 
-![[Pasted image 20230527123928.png]]
+
 
 **!!NOTA IMPORTANTE!!** 
 
@@ -34,7 +34,6 @@ No Kerberos tickets have been cached, but this is expected since jen has not yet
 
 We used net use arbitrarily in this example, but we could have used any command that requires domain permissions and would subsequently create a TGS.
 
-![[Pasted image 20230527124114.png]]
 
 
 Por ultimo cuando tengamos el TGT podemos conectarnos a la máquina como el otro usuario:

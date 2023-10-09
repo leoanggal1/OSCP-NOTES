@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/SSHUTTLE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pen-20",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/SSHUTTLE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/SSHUTTLE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/SSHUTTLE.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,35 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dca9bd0f88a77ee",
+  "active": "7540d0995296eb8b",
   "lastOpenFiles": [
-    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/REMOTE PORT FORWARDING.md",
-    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/REMOTE DYNAMIC PORT FORWARDING.md",
-    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/LOCAL PORT FORWARDING.md",
-    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH/DYNAMIC PORT FORWARDING.md",
-    "IMAGES/Pasted image 20231009183732.png",
-    "LINUX/INTERESTING EJECUTABLE C FILE PRIVESC.md",
-    "LINUX/PRIVILEGE ESCALATION/PRIVILEGE ESCALATION CHECKLIST.md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/SYSTEMCTL.md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/PWKIT  PKEXEC (CVE-2021-4034).md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/JSS.md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/GNU Screen 4.5.0.md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/DOSBOX.md",
+    "WINDOWS/ACTIVE DIRECTORY/LATERAL MOVEMENT SOME TOOLS/PASS THE HASH.md",
+    "COMMON/EXPLOITATION/HTTP - HTTPS/Attendance and Payroll System v1.0.md",
+    "WINDOWS/ACTIVE DIRECTORY/BLOODHOUND/FORCECHANGEPASSWORD CAPABILITY.md",
     "LINUX/PRIVILEGE ESCALATION/SUID/NO COMMON BINARY/LLAMADA A OTRO BINARIO PATH.md",
-    "LINUX/PRIVILEGE ESCALATION/SUID/NO COMMON BINARY/COMANDO AL QUE LE FALTA UN FICHERO.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/WGET.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/VI.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/TAR.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/REBOOT BINARY AND WRITABLE SERVICE.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/PYTHONPATH HIJACKING.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/PERL.md",
+    "README.md",
+    "WINDOWS/ENUMERATION/SMB (139, 445).md",
+    "WINDOWS/EXPLOITATION/RESPONDER A TRAVÉS DE WEB.md",
     "LINUX/PRIVILEGE ESCALATION/SUDO/OPENVPN.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/NANO.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/JOURNALCTL.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/GCORE.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/SUDO VERSION/SUDO VERSION 1.8.31.md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/SUDO VERSION/SUDO VERSION (menor 1.8.28.).md",
-    "LINUX/PRIVILEGE ESCALATION/SUDO/SCRIPT/SCRIPT.SH.md",
+    "COMMON/EXPLOITATION/HTTP - HTTPS/CMS/RiteCMS/RiteCMS 3.1.0 RCE.md",
+    "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/Java Debug Wire Protocol (JDWP)(8000).md",
+    "COMMON/ENUMERATION/GIT.md",
+    "WINDOWS/INTERESTING WINDOWS STUFF.md",
+    "WINDOWS/PRIVILEGE ESCALATION/WINPEAS COSAS INTERESANTES.md",
+    "WINDOWS/PRIVILEGE ESCALATION/GENERIC ENUMERATION FOR PRIVILEGE ESCALATION.md",
+    "WINDOWS/PRIVILEGE ESCALATION/ENUMERATING USING POWERVIEW 1.md",
+    "WINDOWS/PRIVILEGE ESCALATION/BLOODHOUND.md",
+    "WINDOWS/PRIVILEGE ESCALATION/REGISTRY/PUTTY REGYSTRY.md",
+    "WINDOWS/PRIVILEGE ESCALATION/REGISTRY/AlwaysInstallElevated.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PROCESS/VISUAL ESTUDIO CODE 1.37.1.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeRestorePrivilege.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeLoadDriverPrivilege.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeBackupPrivilege.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/ROGUE POTATO.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/JUICY POTATO.md",
+    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/POTATOES (SeImpersonate)/GOD POTATOE.md",
+    "IMAGES/Pasted image 20231009183732.png",
     "OSCP-NOTES",
     "IMAGES/Pasted image 20230706144208.png",
     "IMAGES/Pasted image 20230706144146.png",

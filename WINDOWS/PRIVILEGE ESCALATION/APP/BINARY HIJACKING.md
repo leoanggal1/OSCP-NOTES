@@ -61,6 +61,6 @@ shutdown /r /t 0
 ## MACHINES
 
 * Hack The Box: 
-* OSCP LAB: Medtech
+
 
 **!!NOTA IMPORTANTE!!** 

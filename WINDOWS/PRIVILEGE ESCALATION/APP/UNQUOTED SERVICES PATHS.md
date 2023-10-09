@@ -18,10 +18,10 @@ Get-CimInstance -ClassName win32_service | Select Name,State,PathName
 ```
 
 2. Comprobamos que podemos parar/arrancar ese ervicio y que se encuentra en una ruta sin comillas:
-![[Pasted image 20230523181644.png]]
+
 
 3. Comprobamos los permisos(vemos que tiene scritura en uno de ellos)
-![[Pasted image 20230523181709.png]]
+
 
 4. Creamos un ejecutable y lo trasferiamos a la maquina con el mismo nombre que el de la ruta con espacio, en este caso Current.exe
 

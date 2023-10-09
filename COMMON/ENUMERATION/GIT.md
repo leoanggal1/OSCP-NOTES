@@ -50,5 +50,5 @@ git show 8b430c17c16e6c0515e49c4eafdd129f719fde74
 ## MACHINES
 
 * Hack The Box: 
-* OSCP LABS: Relia (.247)
+
 

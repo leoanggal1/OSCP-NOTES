@@ -16,4 +16,4 @@ sudo openvpn --dev null --script-security 2 --up '/bin/sh -c sh'
 
 ## MACHINES
 
-* OSCP LABS: Medtech
+

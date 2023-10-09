@@ -39,7 +39,7 @@ primero comprobamos que tenga el compilador:
 ````
 
 
-john@oscp:~$ cat /tmp/shell.c 
+cat /tmp/shell.c 
 #include <stdio.h>
 #include <sys/socket.h>
 #include <sys/types.h>
