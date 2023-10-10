@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LINUX/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "LINUX/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "LINUX/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "LINUX/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md"
               }
             }
           },
@@ -172,11 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7c736a0b2d9cd14",
+  "active": "7dca9bd0f88a77ee",
   "lastOpenFiles": [
+    "WINDOWS/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md",
+    "LINUX/ENUMERATION/TAKE A LOOK AT THE COMMON ENUMERATION SECTION.md",
+    "WINDOWS/ENUMERATION/Untitled",
+    "COMMON/ENUMERATION/SMB (139 445).md",
+    "README.md",
+    "CODEOWNERS",
     "IMAGES/Pasted image 20231009213928.png",
     "COMMON/INTERESTING STUFF/TEMPLATE.md",
-    "README.md",
     "IMAGES/Pasted image 20231009211828.png",
     "IMAGES/Pasted image 20231009210045.png",
     "WINDOWS/EXPLOITATION/H2 DATABASE (H2 1.4.199).md",
@@ -200,8 +205,6 @@
     "WINDOWS/PRIVILEGE ESCALATION/PROCESS/VISUAL ESTUDIO CODE 1.37.1.md",
     "WINDOWS/PRIVILEGE ESCALATION/PROCESS/TEAM VIEWER 7.0.md",
     "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeRestorePrivilege.md",
-    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeLoadDriverPrivilege.md",
-    "WINDOWS/PRIVILEGE ESCALATION/PRIVILEGES/SeBackupPrivilege.md",
     "IMAGES/Pasted image 20231009183732.png",
     "OSCP-NOTES",
     "IMAGES/Pasted image 20230706144208.png",
@@ -210,7 +213,6 @@
     "IMAGES/Pasted image 20230706140403.png",
     "IMAGES/Pasted image 20230706140336.png",
     "IMAGES/Pasted image 20230706140234.png",
-    "IMAGES/Pasted image 20230705195432.png",
     "COMMON/EXPLOITATION/JS",
     "LINUX/PRIVILEGE ESCALATION/ROOT PROCCESS/GIT",
     "LINUX/PRIVILEGE ESCALATION/git",
@@ -218,8 +220,6 @@
     "LINUX/PRIVILEGE ESCALATION/SUDO/SCRIPT",
     "WINDOWS/PRIVILEGE ESCALATION/REGISTRY/Untitled",
     "WINDOWS/PRIVILEGE ESCALATION/REGISTRY",
-    "LINUX/PRIVILEGE ESCALATION/SUID/NO COMMON BINARY",
-    "COMMON/INTERESTING STUFF/TUNNELING AND PORT FORWARDING/SSH",
     "Untitled.canvas"
   ]
 }
